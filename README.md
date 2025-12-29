@@ -10,7 +10,7 @@ These are the top projects that best represent my skills and focus areas.
 
 ## Projects
 
-### [Project A: Webiste Portofilio(https://github.com/calista-web-labs/website-portofolio)
+### [Project A: Webiste Portofilio](https://github.com/calista-web-labs/website-portofolio)
 Personal portfolio website showcasing layout systems, UI structure, and interaction design.
 
 ---
