@@ -10,8 +10,15 @@ These are the top projects that best represent my skills and focus areas.
 
 ## Projects
 
-### [Project A: Webiste Portofilio](https://github.com/calista-web-labs/website-portofolio)
+### Project A: Webiste Portofilio
 Personal portfolio website showcasing layout systems, UI structure, and interaction design.
+- [Website Portofolio Excercise](https://github.com/calista-web-labs/website-portofolio)
+
+### Project B: UI Slicing with Tailwind CSS
+UI slicing based on real-world web design references using Tailwind CSS.  
+Focused on layout accuracy, responsive structure, and clean utility-based styling.
+- [E-Wallet UI SLicing](https://github.com/calista-web-labs/E-Wallet-UI-Slicing)
+
 
 ---
 
