@@ -4,8 +4,8 @@ A collection of full-stack web development projects focused on hands-on learning
 ## **Most Valuable Projects (MVP)** 🌟
 Selected projects that best reflect my technical skills, core focus areas, and learning progression.
 
-* [*Fullstack Development Journey*](https://github.com/calistasalsabila/Website)
-A structured repository documenting learning progress and experimentation across full-stack web development concepts and approaches.
+* [*Fullstack Development Journey*](https://github.com/calistasalsabila/Website) ⭐
+#### A structured repository documenting learning progress and experimentation across full-stack web development concepts and approaches.
 
 ---
 
