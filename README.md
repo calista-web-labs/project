@@ -19,7 +19,6 @@ Personal portfolio website showcasing layout systems, UI structure, and interact
 
 * [E-Wallet UI Slicing](https://github.com/calistasalsabila/e-wallet-ui-slicing)
 UI slicing based on real-world web design references using Tailwind CSS.  
-Focused on layout accuracy, responsive structure, and clean utility-based styling.
 
 ---
 
